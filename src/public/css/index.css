@@ -1,0 +1,226 @@
+body {
+    width: 1512px;
+    height: 982px;
+    top: -3741px;
+    left: -754px;
+    gap: 0px;
+    opacity: 0px;
+    background: #FFFFFF;
+}
+.header{
+    width: 1512px;
+    height: 100px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+
+}
+.contact-form__heading {
+    position: relative;
+}
+
+.contact-form__heading-text {
+    position: absolute;
+    width: 140px;
+    height: 43px;
+    top: 0px;
+    left: 694px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inika;
+    font-size: 35px;
+    font-weight: 400;
+    line-height: 45.61px;
+    text-align: left;
+    color: #8B7969;
+}
+.form {
+    position: absolute;
+    width: 972px;
+    height: 606px;
+    top: 247px;
+    left: 273px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border: 1px solid #E0DFDE
+}
+.form__group {
+    justify-content: space-between;
+    display: flex;
+    margin-bottom: 15px;
+}
+
+.form__label--item {
+    font-family: Inika;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 26.06px;
+    text-align: left;
+    color: #8B7969;
+}
+.form__label--important {
+    color: #FF9494;
+    font-family: Inika;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 26.06px;
+    text-align: left;
+}
+
+.form__error {
+    height: 20px;
+    color: #ff0000;
+    text-align: left;
+}
+
+.form__input--name-text input {
+    width: 287.15px;
+    height: 38px;
+    gap: 0px;
+    opacity: 0px;
+    background: #F4F4F4;
+    margin-right: 20px;
+
+    font-family: Inika;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18.24px;
+    text-align: left;
+    color: #BEB1A6;
+}
+
+.form__input--radio input{
+    width: 20px;
+    height: 20px;
+    gap: 0px;
+    opacity: 0px;
+    accent-color: #8B7969;
+}
+
+.form__input--radio label{
+    font-family: Inika;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 23.45px;
+    text-align: left;
+    color: #8B7969;
+}
+
+.form__input--radio-man, .form__input--radio-woman {
+    margin-right: 30px;
+}
+
+.form__input--radio-other {
+    margin-right: 350px;
+}
+
+.form__input--email input {
+    width: 618.82px;
+    height: 38px;
+    gap: 0px;
+    opacity: 0px;
+    padding: 10px;
+    background: #F4F4F4;
+    font-family: Inika;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18.24px;
+    text-align: left;
+    color: #BEB1A6;
+}
+
+.form__input--tel-text input {
+    width: 178.12px;
+    height: 38px;
+    gap: 0px;
+    opacity: 0px;
+    background: #F4F4F4;
+
+    font-family: Inika;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18.24px;
+    text-align: left;
+    color: #BEB1A6;
+    text-align:center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.form__input--address-text input {
+    width: 620.36px;
+    height: 38px;
+    gap: 0px;
+    opacity: 0px;
+    background: #F4F4F4;
+
+    font-family: Inika;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18.24px;
+    text-align: left;
+    color: #BEB1A6;
+}
+
+.form__input--confirm-category {
+    position: relative;
+}
+.form__input--confirm-category__item-select{
+    width: 331.68px;
+    height: 38px;
+    gap: 0px;
+    opacity: 0px;
+    background: #F4F4F4;
+    margin-right: 290px;
+
+    font-family: Inika;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18.24px;
+    text-align: left;
+    color: #BEB1A6;
+
+    -webkit-appearance: none;
+    appearance: none;
+    background-image: url("../img/Polygon 2.png");
+    background-repeat: no-repeat;
+    background-size: 30.71px 20px; /* 画像のサイズ（幅 高さ）*/
+    background-position: right 12px center; /* 画像の位置 */
+}
+
+.form__input--textarea textarea {
+    width: 618.82px;
+    height: 129px;
+    gap: 0px;
+    opacity: 0px;
+    background: #F4F4F4;
+
+    font-family: Inika;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18.24px;
+    text-align: left;
+    color: #BEB1A6;
+}
+.form__button {
+    margin-top: 30px;
+}
+
+.form__button-submit {
+    font-family: Inika;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 26.06px;
+    text-align: left;
+    color: #FFFFFF;
+
+    position:relative;
+    width: 160px;
+    height: 46px;
+    left: 420px;
+    padding: 10px 40px 10px 40px;
+    gap: 10px;
+    opacity: 0px;
+    background: #82756A;
+}

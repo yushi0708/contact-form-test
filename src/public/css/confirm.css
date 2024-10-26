@@ -1,0 +1,235 @@
+body {
+    width: 1512px;
+    height: 1000px;
+    top: -3741px;
+    left: -754px;
+    gap: 0px;
+    opacity: 0px;
+    background: #FFFFFF;
+}
+
+.header {
+    width: 1512px;
+    height: 100px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+
+}
+
+.contact-form__heading {
+    position: relative;
+}
+
+.contact-form__heading-text {
+    position: absolute;
+    width: 140px;
+    height: 43px;
+    top: 0px;
+    left: 694px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inika;
+    font-size: 35px;
+    font-weight: 400;
+    line-height: 45.61px;
+    text-align: left;
+    color: #8B7969;
+}
+
+.form {
+    position: absolute;
+    width: 972px;
+    height: 621px;
+    top: 247px;
+    left: 273px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border: 1px solid #E0DFDE
+}
+
+.form__group {
+    justify-content: space-between;
+    display: flex;
+}
+.form__group-title {
+    width: 305px;
+    height: 69.92px;
+    gap: 0px;
+    opacity: 0px;
+    background: #BAA899;
+}
+.form__group-title-confirm {
+    width: 305px;
+    height: 116.54px;
+    gap: 0px;
+    opacity: 0px;
+    background: #BAA899;
+}
+
+.form__separator-line {
+    width: 969px;
+    height: 0px;
+    top: 69.92px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+
+    border: 1px solid #E0DFDE
+}
+
+.form__label--item-name,
+.form__label--item-sex,
+.form__label--item-email,
+.form__label--item-tel,
+.form__label--item-address,
+.form__label--item-sub-address,
+.form__label--item-confirm-category,
+.form__label--item-confirm {
+    margin-top: 21.44px;
+    margin-left: 62px;
+    gap: 0px;
+    opacity: 0px;
+
+    font-family: Inika;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 26.06px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.form__label--item-name,
+.form__label--item-sex,
+.form__label--item-address,
+.form__label--item-sub-address {
+    width: 64.21px;
+    height: 28.86px;
+}
+
+.form__label--item-email {
+    width: 140px;
+    height: 26px;
+}
+.form__label--item-tel {
+    width: 90px;
+    height: 26px;
+}
+.form__label--item-confirm-category {
+    width: 200px;
+    height: 28.86px;
+}
+.form__label--item-confirm {
+    width: 180px;
+    height: 28.86px;
+}
+.form__error {
+    height: 20px;
+    color: #ff0000;
+    text-align: left;
+}
+
+.form__name-text,
+.form__sex-type,
+.form__email-text,
+.form__tel-text,
+.form__address-text,
+.form__sub-address-text,
+.form__confirm-category-text,
+.form__confirm-text {
+    margin-top: 20px;
+    gap: 0px;
+    opacity: 0px;
+
+    font-family: Inika;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 26.06px;
+    text-align: left;
+    color: #8B7969;
+}
+
+.form__name-text {
+    width: 100px;
+    height: 24.24px;
+    margin-right: 500px;
+}
+.form__sex-type {
+    width: 40px;
+    height: 24.24px;
+    margin-right: 560px;
+}
+
+.form__email-text {
+    width: 192px;
+    height: 24.24px;
+    margin-right: 410px;
+}
+
+.form__tel-text {
+    width: 145px;
+    height: 24.24px;
+    margin-right: 460px;
+}
+
+.form__address-text {
+    width: 306px;
+    height: 24.24px;
+    margin-right: 300px;
+}
+
+.form__sub-address-text {
+    width: 220px;
+    height: 24.24px;
+    margin-right: 387px;
+}
+.form__confirm-category-text {
+    width: 180px;
+    height: 24.24px;
+    margin-right: 427px;
+}
+
+.form__confirm-text {
+    width: 470px;
+    height: 52.21px;
+    margin-right: 137px;
+}
+.form__button {
+    position: relative;
+}
+.form__button-send {
+    position: absolute;
+    width: 125px;
+    height: 42px;
+    top: 40px;
+    left: 436px;
+    padding: 6px 40px 10px 40px;
+    gap: 10px;
+    opacity: 0px;
+    background: #82756A;
+
+    font-family: Inika;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 26.06px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.form__correctionーtext {
+    position: absolute;
+    width: 40px;
+    height: 24px;
+    top: 30px;
+    left: 650px;
+    gap: 0px;
+    opacity: 0px;
+
+    font-family: Inika;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 26.06px;
+    text-align: left;
+    color: #8B7969;
+}

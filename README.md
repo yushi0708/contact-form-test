@@ -20,5 +20,5 @@
 ・mysql  Ver 8.0.26 for Linux on x86_64 
 
 ## URL
-・開発環境:[http://localhost/]
-・phpMyAdmin:[http://localhost:8080/]
+・開発環境:http://localhost/
+・phpMyAdmin:http://localhost:8080/
